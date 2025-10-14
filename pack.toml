@@ -1,0 +1,13 @@
+name = "Groveborne"
+author = "BamsyTheSergal"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4632a5ed61a011979adabb7deeab40cb892aa9a0ff11948dee0ca1e7630d2fef"
+
+[versions]
+forge = "47.4.9"
+minecraft = "1.20.1"
