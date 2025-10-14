@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Croptopia "
+filename = "DynamicTreesCroptopia-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35ff86489685ed401b2e9e961e87b3e8efc08d01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6090656
+project-id = 1168636
