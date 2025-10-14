@@ -1,0 +1,13 @@
+name = "Tinkers' Wood"
+filename = "Tinker-Wood-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb58225f111a06a3370a360e2f6e5aca8648fb03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6603394
+project-id = 1276536

@@ -1,0 +1,13 @@
+name = "Tinkers' Battle Spades"
+filename = "TinkersBattleSpades_v1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2a671143d415b6a2a29d3ae4284a7a1427b92bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6971324
+project-id = 1295229
