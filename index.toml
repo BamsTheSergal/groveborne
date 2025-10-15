@@ -126,11 +126,6 @@ hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
@@ -166,6 +161,16 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight-croptopia.pw.toml"
+hash = "26d3a902c8d6fe9661541fbb1a1072689708789d3510c8b210e1fc797b886dfe"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "34b8b105892d70242f0fda738fd913c3e2fd5c4782fecfa39f8ff6e8700ab699"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1a0099366159fe4c62c19e82b512375eaa528574cf1a7d60fc7b2c96e8a83a51"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/dense-trees.pw.toml"
 hash = "2a544a8ff8ad1cd1344271c2f616e5876b05c657c4c87c036615ca31f4e26370"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "f3c9147c46fb0bfa4f27f915107281c5211a3c1e1857e3c068e646903fdca06c"
 metafile = true
 
 [[files]]
@@ -282,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
 metafile = true
 
 [[files]]
@@ -312,12 +322,12 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-croptopia.pw.toml"
-hash = "4d133b7195fc120f622e0b547604b5c69a96931ab1f9daa6dfac47c6af988385"
+hash = "2c2b8a477f11dda3a0ceed21a262b6077dcc790a1ec95a5ed912c95d6e6d4dce"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
+hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
 metafile = true
 
 [[files]]
@@ -426,11 +436,6 @@ hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "6d8ca5f4586ae60fe0771ae32a7cb3230030b92fda58d1761c770c24afaa54b2"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-teams.pw.toml"
 hash = "c333e315e4a6581c8efe4aad46bee5e12ad7a4e945886d079ef36482301b7285"
 metafile = true
@@ -463,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
+
+[[files]]
+file = "mods/large-meals-an-add-on-for-farmers-delight.pw.toml"
+hash = "d9e28a88298365e72968ede3fb229d77ea8ca80b6878ff5b84bd807e783538d9"
 metafile = true
 
 [[files]]
@@ -571,6 +581,11 @@ hash = "7172839c89fed8a57db7ea0fca1bf4305e2c76e15f2277a9e66e6c9aaace4374"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "b4a42211df7adc0378b305db8a677a28f2844c8639a51fbdfe0e972efe344304"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -608,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
 metafile = true
 
 [[files]]
@@ -693,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/seed-delight.pw.toml"
+hash = "9aff2f7994b90f93e3e31449340e66f7f4f42ad3ac84a6fc5d2b49c954c84f65"
 metafile = true
 
 [[files]]
@@ -841,6 +866,11 @@ hash = "8c3ec4d63c0ad73fceb3dbf5bf62f5d95fdebef2904b71057fad92a38684b4cf"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "85b4d99a92e8b060aa59760828f351b3772e59e6bd57480ded901f505756d2ff"
+metafile = true
+
+[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "0fa419f90043ccf4f2e65d69b5623e8984b1cd9e75cad074fec65478cd0e4440"
 metafile = true
@@ -878,11 +908,6 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
-metafile = true
-
-[[files]]
-file = "mods/yeetusexperimentus.pw.toml"
-hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
 metafile = true
 
 [[files]]
