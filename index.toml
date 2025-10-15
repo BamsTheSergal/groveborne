@@ -646,6 +646,11 @@ hash = "842048640c5e94899b7b01b15e72766a8d69553752214e3218c63b32ea7c5ca8"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
+metafile = true
+
+[[files]]
 file = "mods/passive-skill-tree.pw.toml"
 hash = "b1b64fa46d74b4457d316d7eef6465f1280a224f86f28c4c8bf880e1dacfe9a8"
 metafile = true
