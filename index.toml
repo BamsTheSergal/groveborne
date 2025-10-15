@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/tconstruct_emergence-common.toml"
+hash = "72b12684849d928bdbf1ef4b1085162302e9759544e4a7e6eb6d8d407edf4590"
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "3d10d9fe2e94e75cd2152ecf1e76df74b5ca3d448f679366547139dbb8b9587f"
 metafile = true
@@ -648,11 +652,6 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
 hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
-metafile = true
-
-[[files]]
-file = "mods/passive-skill-tree.pw.toml"
-hash = "b1b64fa46d74b4457d316d7eef6465f1280a224f86f28c4c8bf880e1dacfe9a8"
 metafile = true
 
 [[files]]
