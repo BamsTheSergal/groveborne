@@ -1,0 +1,13 @@
+name = "Crate Delight: Croptopia"
+filename = "cratedelightcroptopia-24.12.27-1.20-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W6Xlp26Z/versions/5ACt39sC/cratedelightcroptopia-24.12.27-1.20-forge.jar"
+hash-format = "sha512"
+hash = "399e15c208df0ff76f030c55504c9161a5f10b996fc99bd1bea8add6f12dff7b27f307886a4ce798477b05dc00003cb62c86d281d758b08bcba9c7185b7e8f93"
+
+[update]
+[update.modrinth]
+mod-id = "W6Xlp26Z"
+version = "5ACt39sC"

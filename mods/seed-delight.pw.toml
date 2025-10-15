@@ -1,0 +1,13 @@
+name = "Seed Delight"
+filename = "SeedDelight-NeoorForge-1.20.1-1.0.1 (1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/70AHjgqV/versions/TDZM7AA5/SeedDelight-NeoorForge-1.20.1-1.0.1%20%281%29.jar"
+hash-format = "sha512"
+hash = "fdc1d5cdacd83399a1ed5f3e5a54c4b2056a9ce45d530ac11cb4a789a188aa4541a5f4c2c97b76dd46d2e3e449e7acaab8213334bdefbc5d3cbbf6f7ac96f060"
+
+[update]
+[update.modrinth]
+mod-id = "70AHjgqV"
+version = "TDZM7AA5"
