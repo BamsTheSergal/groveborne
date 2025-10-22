@@ -843,6 +843,11 @@ hash = "a5c5d23e47dd48308ec10914b1643564aa7224d8950f2c0ae569f1d2276be2ab"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct-delight.pw.toml"
+hash = "f13cee660905ecd3d2f25d5ac142226ca0744023529646d942c7f8b7aae80b20"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct-emergence.pw.toml"
 hash = "7abbd0e435e6ce1524f1f4395a8e406ef6efb7b6bbe478fa82194b8ca301293d"
 metafile = true
