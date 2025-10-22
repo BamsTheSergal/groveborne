@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/serverconfigupdater-common.toml"
-hash = "3bde978b542818c99bbb14f5bae0f2a011717e3b69edee4692f106207bcaf9e2"
-
-[[files]]
 file = "config/tconstruct_emergence-common.toml"
 hash = "72b12684849d928bdbf1ef4b1085162302e9759544e4a7e6eb6d8d407edf4590"
 
