@@ -1,11 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/serverconfigupdater-common.toml"
+hash = "3bde978b542818c99bbb14f5bae0f2a011717e3b69edee4692f106207bcaf9e2"
+
+[[files]]
 file = "config/tconstruct_emergence-common.toml"
 hash = "72b12684849d928bdbf1ef4b1085162302e9759544e4a7e6eb6d8d407edf4590"
 
 [[files]]
-file = "defaultconfig/dynamictrees-server.toml"
+file = "defaultconfigs/dynamictrees-server.toml"
 hash = "bed857fdd248fd2ad6353ff801acdaac89cba37994b037b10d38ffa027feaff4"
 
 [[files]]
@@ -736,11 +740,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "37eddc9a6e46af2cea7bbc5751aa5c87cde50b4e9fe7b46d9a4da90660245e58"
-metafile = true
-
-[[files]]
-file = "mods/serverconfig-updater.pw.toml"
-hash = "74d266052c0ad2203ed80d71680698e1ee973952929ae1267101282cab5b320e"
 metafile = true
 
 [[files]]
