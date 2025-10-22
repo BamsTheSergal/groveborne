@@ -72,7 +72,7 @@ growthFolding = 400
 	canopyCrash = true
 	#Damage dealt to the axe item when cutting a tree down. VANILLA: Standard 1 Damage. THICKNESS: By Branch/Trunk Thickness. VOLUME: By Tree Volume.
 	#Allowed Values: VANILLA, THICKNESS, VOLUME
-	axeDamageMode = "THICKNESS"
+	axeDamageMode = "VOLUME"
 	#If enabled then trees will fall over when harvested
 	enableFallingTrees = true
 	#If enabled then trees will harm living entities when falling
