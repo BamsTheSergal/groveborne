@@ -6,7 +6,7 @@ hash = "72b12684849d928bdbf1ef4b1085162302e9759544e4a7e6eb6d8d407edf4590"
 
 [[files]]
 file = "defaultconfigs/dynamictrees-server.toml"
-hash = "bed857fdd248fd2ad6353ff801acdaac89cba37994b037b10d38ffa027feaff4"
+hash = "26d3b38c5c9f511e2333598ff20b11b6bdfed98dfa4e43f34c3d60f119844b9e"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -364,6 +364,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "51a92411c991732cb5e81f86754e177bc8fbd4f6d7bb02940e1d4852ca961540"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
@@ -489,6 +494,11 @@ hash = "d9e28a88298365e72968ede3fb229d77ea8ca80b6878ff5b84bd807e783538d9"
 metafile = true
 
 [[files]]
+file = "mods/large-ore-deposits.pw.toml"
+hash = "b2ace73b7182c2679d8e3bcb8728605c010949e98982d53e0e4d26a803504dfd"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-brewery.pw.toml"
 hash = "6432819826de08392ee4fb077aceb79c62a909b9d1dab33e55fa9aa682e9ecd9"
 metafile = true
@@ -584,8 +594,23 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "1c853f94ff20aab7d05289bd01d82758ba122766064d6b52875195d270dd76e9"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "61bd195dce94baeb29f5ef15f1771807400f87d7da44138af1761fcd5b396e08"
+metafile = true
+
+[[files]]
+file = "mods/mmv-moogs-missing-villages.pw.toml"
+hash = "64b9b5fa5080e658379160357c6e29eb20837a5aba90d26b836089ebec7d667c"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "cbe3484bef64ca02d9e12261de6bb782bad86213acf173c17b160aeec53a1871"
 metafile = true
 
 [[files]]
@@ -596,6 +621,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "7172839c89fed8a57db7ea0fca1bf4305e2c76e15f2277a9e66e6c9aaace4374"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "bf75992cd8fa2862fc5d1f00f7e8f16686dedae95ea9748c76122344c7448d84"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "8f04990971801314688649b2779333700b6408c4bc6c2abc707172bf945cdcd4"
 metafile = true
 
 [[files]]
@@ -611,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "1d4be6c6864af3f7945e75a6c0ad7be6898570b9a45ca8df980fbb5508388f5c"
 metafile = true
 
 [[files]]
@@ -734,6 +774,11 @@ hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
 
 [[files]]
+file = "mods/roadarchitect.pw.toml"
+hash = "0e621917677a52dd4a4406c3c4e04820600cfe91ad51a9c5ca1dce968c481c59"
+metafile = true
+
+[[files]]
 file = "mods/saturation-plus.pw.toml"
 hash = "be3c732d0f8ed529e2ae525b4889b023e6994dcb66a05a5b579ba5f70fd00b63"
 metafile = true
@@ -776,6 +821,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "59090df19338991fbdf37a0b96277a823995516eca1f20c55c3b7770faacd415"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "8afe4235723b1d90c132d811402640759449c73173f4535090487966fa912d31"
 metafile = true
 
 [[files]]
