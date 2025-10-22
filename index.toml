@@ -739,6 +739,11 @@ hash = "37eddc9a6e46af2cea7bbc5751aa5c87cde50b4e9fe7b46d9a4da90660245e58"
 metafile = true
 
 [[files]]
+file = "mods/serverconfig-updater.pw.toml"
+hash = "74d266052c0ad2203ed80d71680698e1ee973952929ae1267101282cab5b320e"
+metafile = true
+
+[[files]]
 file = "mods/simple-gravel-ores.pw.toml"
 hash = "8e5cf07727b19229d2730aa146a297a1bee544a1f28691c2a5f2b50ccb0e3438"
 metafile = true
