@@ -26,7 +26,7 @@ growthFolding = 400
 [trees]
 	#Factor that multiplies the rate at which trees grow. Use at own risk
 	#Range: 0.0 ~ 16.0
-	growthMultiplier = 2.0
+	growthMultiplier = 0.5
 	#Factor that multiplies the wood returned from harvesting a tree.  You cheat.
 	#Range: 0.0 ~ 128.0
 	harvestMultiplier = 4.0
