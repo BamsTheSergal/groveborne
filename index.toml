@@ -833,11 +833,6 @@ hash = "aaa8c5bc3508869fb0683e2423f509eeba9bccc3de54348b23e6714077814bbf"
 metafile = true
 
 [[files]]
-file = "mods/tinker-delight.pw.toml"
-hash = "7fe3c496758e54f1038be900a0b8fd31621c108a19bdcb8392c7fb2d52ad0d7f"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-battle-spades.pw.toml"
 hash = "a5c5d23e47dd48308ec10914b1643564aa7224d8950f2c0ae569f1d2276be2ab"
 metafile = true
