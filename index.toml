@@ -24,6 +24,11 @@ hash = "07ff1b204dc995bc655d37a29518f41b56569fe49df558eb71026d0dc1dc742e"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "4eb0979fd7cada4b6e3dd3fec8ced79ee0892e2b7ffba6466430387cd520acee"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
 metafile = true
@@ -504,6 +509,11 @@ hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "47b9410704efc0f8cb3b34a87d7019a013850775afe464e887b19ecf45eac0d3"
+metafile = true
+
+[[files]]
 file = "mods/macaws-biomes-o-plenty.pw.toml"
 hash = "8fc0345ebeffd70bd021fa92318858a55c77c82c2683e02af15a1329d8b7165e"
 metafile = true
@@ -586,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "7172839c89fed8a57db7ea0fca1bf4305e2c76e15f2277a9e66e6c9aaace4374"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "59ddb20cb1fddab5a1a0349e0452f5100c2bec8c51e746658553f92dc8239512"
 metafile = true
 
 [[files]]
@@ -894,6 +909,11 @@ hash = "85b4d99a92e8b060aa59760828f351b3772e59e6bd57480ded901f505756d2ff"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "c24febd1fd6db1cf87dc4ba9caf9ecedba0e7326c06456dcce71c390ba98b424"
+metafile = true
+
+[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "0fa419f90043ccf4f2e65d69b5623e8984b1cd9e75cad074fec65478cd0e4440"
 metafile = true
@@ -910,7 +930,12 @@ metafile = true
 
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
-hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
+hash = "80defc01fee35be2d07c6c26ad0767b98eb1eff33e8b61c3fd152412e5ab3606"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "109a59ba560dab527da4b13ab9312df5d47019117de3326bed5a9f961f6df7af"
 metafile = true
 
 [[files]]
