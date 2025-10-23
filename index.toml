@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/tconstruct_emergence-common.toml"
-hash = "72b12684849d928bdbf1ef4b1085162302e9759544e4a7e6eb6d8d407edf4590"
+hash = "e3d3935fe6e004ad1c82e21f14238c95b66875312fd5fe20bbac39ae8ae23fcf"
 
 [[files]]
 file = "defaultconfigs/dynamictrees-server.toml"
@@ -166,11 +166,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
@@ -366,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "51a92411c991732cb5e81f86754e177bc8fbd4f6d7bb02940e1d4852ca961540"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
