@@ -719,6 +719,11 @@ hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
 metafile = true
 
 [[files]]
+file = "mods/passive-skill-tree.pw.toml"
+hash = "0aea7d0592b98d669a89b7361ef6c9d5a5793ccd5bfbf9246151946a623def7f"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
