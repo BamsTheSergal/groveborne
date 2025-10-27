@@ -1,1 +1,1 @@
-if u read this u like kissing sergals
+# if u read this u like kissing sergals
