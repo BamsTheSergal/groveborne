@@ -9,7 +9,6 @@ hash = "acf59df077db818130260f580ba36ebfff8efedbcb8f0ca3eab084bcc97d5a118f057ef3
 
 [option]
 optional = "true"
-description = "This mod is for p2p multiplayer, it comes with cosmetics and emotes."
 
 [update]
 [update.modrinth]
