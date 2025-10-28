@@ -1,4 +1,5 @@
 gamma:1.0
+key_key.trashslot.toggleLock:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.keyboard.unknown
 key_quark.keybind.camera_mode:key.keyboard.f12
