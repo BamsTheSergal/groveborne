@@ -8,7 +8,7 @@ hash-format = "sha512"
 hash = "acf59df077db818130260f580ba36ebfff8efedbcb8f0ca3eab084bcc97d5a118f057ef3329c02cdb1401d860489d1ec9f42360d5754a8154e05838f3e325fda"
 
 [option]
-optional = "1"
+optional = true
 
 [update]
 [update.modrinth]
