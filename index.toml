@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "3c9532d618b994ce4bc915acb64f9630a0dbc7eb20db5fb65c1f78b3b002296c"
+hash = "f71ab2d85c9a96944736e1623723a89fbfee8b08ebb79b83ca62ccf9b61b8a5d"
 metafile = true
 
 [[files]]
