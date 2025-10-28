@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "ca6385471fe87df6839ed7820613b2d08fe2199878273e5eebb31f70e8901e5b"
+
+[[files]]
 file = "config/tconstruct_emergence-common.toml"
-hash = "e3d3935fe6e004ad1c82e21f14238c95b66875312fd5fe20bbac39ae8ae23fcf"
+hash = "8ee9c2a770577e37b08030fd2e85ff74ed5cb1ef190c67e73dd8386c7fcd7ee8"
 
 [[files]]
 file = "defaultconfigs/dynamictrees-server.toml"
 hash = "26d3b38c5c9f511e2333598ff20b11b6bdfed98dfa4e43f34c3d60f119844b9e"
+
+[[files]]
+file = "kubejs/config/.defaultoptions.txt.kate-swp"
+hash = "0934e293bc629e48e8dc6f8ee88d9462f77a8748fb5e984a685a7dfafbfafa8f"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "32245415065c6ed915298beebf074d7ee0291775b39b3a04f055ff651433bd87"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -51,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/art-of-forging-tetra.pw.toml"
+hash = "77ce2b2e228a4561e2793d58a294ab26086840ed2b6d2098a4641ca7caa6ba93"
 metafile = true
 
 [[files]]
@@ -195,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -321,6 +338,16 @@ metafile = true
 [[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "889fdbb4df9aaa8ebf8c5c465ef378d6a252c80c10f5e8cc6a3b6a4b382d2ea2"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "3d515151fb831fd197888ae7b4cbc8cd279bbf911d793e742937e45e85b32aa5"
 metafile = true
 
 [[files]]
@@ -615,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "cbe3484bef64ca02d9e12261de6bb782bad86213acf173c17b160aeec53a1871"
+hash = "f604bc8931b1138d04692fdc757c3316b4c57cecde53efc9233619aad70b7ad4"
 metafile = true
 
 [[files]]
@@ -720,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/passive-skill-tree.pw.toml"
-hash = "0aea7d0592b98d669a89b7361ef6c9d5a5793ccd5bfbf9246151946a623def7f"
+hash = "b1b64fa46d74b4457d316d7eef6465f1280a224f86f28c4c8bf880e1dacfe9a8"
 metafile = true
 
 [[files]]
@@ -834,6 +861,11 @@ hash = "59090df19338991fbdf37a0b96277a823995516eca1f20c55c3b7770faacd415"
 metafile = true
 
 [[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "3e2d7a46dc4d6a3eb0679c64588b31c217a4ed35b661de2a70e7cf979f2342e4"
+metafile = true
+
+[[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "8afe4235723b1d90c132d811402640759449c73173f4535090487966fa912d31"
 metafile = true
@@ -885,12 +917,17 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "6d7d7e9056c82d805e0957f33d8dac048a3a193d91ca7e655e12d4bade9eb4d8"
+hash = "c7c0bf52ed0a44e8e71403a92da8503e298dc961c57671ae933f707ec807004d"
 metafile = true
 
 [[files]]
 file = "mods/tetracelium.pw.toml"
 hash = "1f9ed7d78a4e7263a46a7ff5095394e3932d526e71ba8bdf1cd64c6f3b2594d1"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "e1c67611aa8ac579d7299e273cac8798b28927b9366ec799cc5133cced89d958"
 metafile = true
 
 [[files]]
@@ -1006,6 +1043,11 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "e6a6a1082f7e78281d84451bd77c42f053c4251517ea13ee0e1d2a23c7b14287"
+metafile = true
+
+[[files]]
+file = "mods/withering-boon-for-tetra.pw.toml"
+hash = "fe2d58910752752faef253ed1f6cdca250f2cc2dafebb1fa833132b01285edf1"
 metafile = true
 
 [[files]]
