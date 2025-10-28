@@ -167,6 +167,11 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "c6266e6abc3eb46a62db3d106a915c78d8bd40502e45c23c729bad7e21de1141"
+metafile = true
+
+[[files]]
 file = "mods/compressium.pw.toml"
 hash = "925a429084a97ac7df571f00fb29e1480cea3d989b2a7949631af7f53da7a1d8"
 metafile = true
@@ -338,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "889fdbb4df9aaa8ebf8c5c465ef378d6a252c80c10f5e8cc6a3b6a4b382d2ea2"
+hash = "45b9e779f757364dd4f19fff206b7bbbb0c73a164ee991a44ec7659cfafc33d1"
 metafile = true
 
 [[files]]
