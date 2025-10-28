@@ -13,12 +13,8 @@ file = "defaultconfigs/dynamictrees-server.toml"
 hash = "26d3b38c5c9f511e2333598ff20b11b6bdfed98dfa4e43f34c3d60f119844b9e"
 
 [[files]]
-file = "kubejs/config/.defaultoptions.txt.kate-swp"
-hash = "0934e293bc629e48e8dc6f8ee88d9462f77a8748fb5e984a685a7dfafbfafa8f"
-
-[[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "32245415065c6ed915298beebf074d7ee0291775b39b3a04f055ff651433bd87"
+hash = "88b39f59843dfafab98cdd002228604886e4b3ebedb8625eb1197ccccc827672"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
