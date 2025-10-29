@@ -22,11 +22,6 @@ hash = "3d10d9fe2e94e75cd2152ecf1e76df74b5ca3d448f679366547139dbb8b9587f"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "07ff1b204dc995bc655d37a29518f41b56569fe49df558eb71026d0dc1dc742e"
 metafile = true
@@ -192,6 +187,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight-croptopia.pw.toml"
 hash = "26d3a902c8d6fe9661541fbb1a1072689708789d3510c8b210e1fc797b886dfe"
 metafile = true
@@ -259,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-asset-generator.pw.toml"
 hash = "55ffe26e2d88fa9847cadb731ad1679114058f60dad712bb1973bfef05102c8e"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-alexs-mobs.pw.toml"
-hash = "4a831ac28ef58cbaa173fdbcd002364b2b08dfb57b9dec5ca0289c5745608647"
 metafile = true
 
 [[files]]
@@ -467,6 +462,11 @@ hash = "c949e6e0d6a70b8693ef48f8f205cb4fb967cc7c2ecbe029ffe7809e36ad5138"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "00b99c6e27a898bd4032cf5e20b08e8b6c807c194d846f999aa6c4babb829cee"
+metafile = true
+
+[[files]]
 file = "mods/item-production-lib.pw.toml"
 hash = "15965344525e18aa5c36186572f69f3d597566fd22846401b892c8e5b8eeb0ae"
 metafile = true
@@ -579,11 +579,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "e1b4f834c2a9bbcc9ea812fc0658e62b0696b8f77dc2f6ab54568d7b8059b2a5"
-metafile = true
-
-[[files]]
-file = "mods/macaws-quark.pw.toml"
-hash = "0b76f4caa806de61d57a03a6cddb6b8657646af184e352bc513868b5e01a40df"
 metafile = true
 
 [[files]]
@@ -709,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
 metafile = true
 
 [[files]]
@@ -864,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
+metafile = true
+
+[[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "efad4c7698e7bd302bb855e30b7cf28c3edd8069c34ccb227a7751e8be47cf41"
 metafile = true
 
 [[files]]
